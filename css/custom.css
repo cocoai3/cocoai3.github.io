@@ -2,10 +2,10 @@
 
 .markdown-body {
   box-sizing: border-box;
-
   margin: 0 auto;
+  padding-top: 11px;
   font-size: 10px;
-  line-height: 1.3;
+  line-height: 1.9;
   font-family : arial, Meiryo, メイリオ, sans-serif;
 }
 .markdown-body h1 {
