@@ -1,21 +1,8 @@
 @charset "UTF-8";
 
-.markdown-body {
-  box-sizing: border-box;
-  margin: 0 auto;
-  padding-top: 7px;
-  font-size: 12px;
-  line-height: 2.2;
-  font-family : arial, Meiryo, メイリオ, sans-serif;
-}
-.markdown-body h1 {
+ h1 {
   padding-bottom: 0.2em;
   font-size: 1.5em;
   line-height: 1.25;
   border-bottom: 1px solid #FBF4F0;
-}
-
-.markdown-body p {
-  font-size: 16px;
-  line-height: 1.5;
 }
